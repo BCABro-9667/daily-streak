@@ -1,0 +1,9 @@
+{
+    "name": "daily-update",
+    "version": "1.0.0",
+    "main": "update-file.js",
+    "scripts": {
+      "start": "node update-file.js"
+    }
+  }
+  
